@@ -1,12 +1,21 @@
-# BodaInvitaciones
-Use this repository to clone or fork if you want a nice web page :smiley: 
+#Breaking Bad Frases
 
-- [ ] Create a branch called html_changes
-#work in your branch
-- [ ] Download to your local
-- [ ] Modify married names
-- [ ] Modify youtube video
-- [ ] Delete the timeline story section
-- [ ] Invite a partner to work in your repository
-- [ ] Create a pull request and assing to your partner
-- [ ] If all is ok merge
+
+
+App el cual consume una API externa y te da algunas frases tipicas de la serie Breaking bad.
+
+# Technology
+
+HTML,CSS y Styled Components and React.
+
+# Deploy
+
+The project is displayed [Here](https://flight-form.vercel.app/).
+
+
+# Team 
+
+the project was developed out by:  
+ Jonnathan Reyes Garcia @tanamix22 - Frontend
+
+
