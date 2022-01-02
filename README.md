@@ -16,6 +16,6 @@ The project is displayed [Here](https://flight-form.vercel.app/).
 # Team 
 
 the project was developed out by:  
- Jonnathan Reyes Garcia @tanamix22 - Frontend
+Nahomi Conde - Frontend
 
 
