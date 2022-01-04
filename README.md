@@ -1,12 +1,12 @@
-#Breaking Bad Frases
+#Wedding invitation
 
 
 
-App el cual consume una API externa y te da algunas frases tipicas de la serie Breaking bad.
+Blog design to invite family members and keep a wedding memory.
 
 # Technology
 
-HTML,CSS y Styled Components and React.
+HTML,CSS and Javascript.
 
 # Deploy
 
